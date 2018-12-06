@@ -1,2 +1,2 @@
 # testing
-Here is just my studying project :)
+Here is just my studying project.
